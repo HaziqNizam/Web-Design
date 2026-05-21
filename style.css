@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+    background-color: gray;
+}
+
+.menu{
+    text-align: center;
+   
+}
+
+.cable-text{
+    margin-left: 500px;
+}
+
+.keyboard-image{
+    width: 300px;
+}
+
+.cable-image{
+    width: 200px;
+    margin-left: 300px;
+}
+
+.button{
+    text-align: center;
+}
+
